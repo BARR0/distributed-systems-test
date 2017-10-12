@@ -6,7 +6,7 @@ REQ = 'REQ:'
 ERASE = 'ERASE'
 
 IPS = [
-    '10.43.39.12'#,'10.43.63.113', '10.43.46.69'#,'0','0','0'
+    'ips'
 ]
 
 def send_chunk(HOST, msg):
